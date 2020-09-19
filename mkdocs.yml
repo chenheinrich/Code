@@ -1,0 +1,12 @@
+site_name: MkLorum
+nav:
+    - Home: index.md
+    - About: about.md
+    - Code Complete: 
+        - 1. Laying The Foundations: code_complete/1_foundations.md
+        - 2. Creating High-Quality Code: code_complete/2_high_quality_code.md
+    - Clean Code: 
+        - Overview: clean_code/overview.md
+    - Online Resources: 
+        - Developer Tools: online_resources/tools.md
+theme: readthedocs
