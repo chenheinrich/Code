@@ -73,7 +73,7 @@
 
 ---
 
-## 2. Key Construction Decisions [Draft, to be polished]
+## 2. Key Construction Decisions
 
 ### Programming Languages
 
@@ -95,8 +95,7 @@
 
 ### Do you have a?
 
-- Procedure for **naming/comments/functions/classes** and other specific **coding practices**. (We recommend the [Google style guide](https://google.github.io/styleguide/); see also the
-  [summary on Clean Code](clean_code/overview.md) upcoming on this website for general principles.)
+- Procedure for **naming/comments/functions/classes** and other specific **coding practices**. (We recommend the [Google style guide](https://google.github.io/styleguide/); see also the [summary on Clean Code](../clean_code/overview.md) upcoming on this website for general principles.)
 
 - Procedure for **Error handling**; convention for **class interfaces**; standards for reused code; performance considerations?
 
